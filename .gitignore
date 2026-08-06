@@ -1,6 +1,11 @@
 # Local .terraform directories
 .terraform/
-
+*.pem
+*.cer
+*.crt
+.env
+.aws/
+terraform.tfstate*
 # .tfstate files
 *.tfstate
 *.tfstate.*
