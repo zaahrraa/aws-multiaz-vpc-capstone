@@ -1,0 +1,1 @@
+[x] VPC, Subnets, IGW, NAT Gateway, Route Tables created
